@@ -45,3 +45,4 @@ Top 5 Products by Profit,Horizontal Bar Chart,"Product ID/Name (28,8.., 25,9.., 
 Count of EMP ID by Branches (Left),Line Chart,"Branches (e.g., Delhi, Agra, Cuttack) vs. Count of EMP ID","Shows the ranking and distribution of employee headcount across various branches, highlighting the branches with the largest workforce (e.g., Delhi)."
 Count of EMP ID by Branches (Right),Map Visual (Geographical Plot),"Branches (e.g., Agra, Aligarh, Ambala) plotted on a map","Visualizes the physical spread of the company's branches and associated employee count, indicating the company's operational presence across India and internationally (though the map view is global, the data points seem to focus on Indian cities)."
 example:
+https://github.com/IPSHITATEWARY/sales-dashboard/blob/main/Screenshot%202025-10-24%20035809.png
