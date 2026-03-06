@@ -82,12 +82,3 @@ This dashboard helps management:
 
 ---
 
-## 📌 Future Improvements
-
-* Add **interactive filters for time-based analysis**
-* Integrate **live data sources**
-* Deploy dashboard on **Power BI Service for real-time monitoring**
-
----
-
-⭐ If you find this project interesting, feel free to **star the repository!**
